@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shellar27
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning GD Script
+- 👀 I’m interested in Data Science and Algorithms
+- 🌱 I’m currently learning C and operating systems
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like plants
 
